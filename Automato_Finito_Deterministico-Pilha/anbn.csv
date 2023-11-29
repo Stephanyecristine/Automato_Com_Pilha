@@ -1,0 +1,6 @@
+Origem,Letra,Destino,Empilha,Desempilha
+q0,a,q0,a,nao
+q0,?,qfinal,nao,a
+q0,b,q1,nao,a
+q1,b,q1,nao,a
+q1,?,qfinal,nao,nao
